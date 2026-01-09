@@ -18,10 +18,9 @@ This repository contains several data visualization projects built using **Table
 
 ### **2. Spotify Song Popularity Visualization**
 - **Files Included:**
-  - `Visualizing Song Popularity From Spotify.twbx`
   - `Visualizing Song Popularity From Spotify.pptx`
 - **Description:**
-  - Tableau dashboard + slide presentation analyzing how audio features relate to a song’s popularity.
+  - Tableau dashboard analyzing how audio features relate to a song’s popularity.
 - **Key Insights:**
   - Relationship between energy, danceability, valence, and popularity  
   - Feature patterns among high-popularity tracks  
@@ -31,8 +30,7 @@ This repository contains several data visualization projects built using **Table
 
 ## Tools & Technologies
 - **Tableau** – interactive dashboards (`.twbx`)
-- **PowerPoint** – summary presentations (`.pptx`)
-- **CSV datasets** – source data for analysis
+- **CSV datasets** – source data for analysis 
 - **Python / R** for data cleaning or preprocessing
 
 ---
